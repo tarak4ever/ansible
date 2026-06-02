@@ -1,0 +1,6 @@
+- name: ping the server
+  host: frontend # target server private ip
+  tasks:   ##tasks == module == collection ---> all are same "retesting"
+  - name: ping the server
+    ping:
+
