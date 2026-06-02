@@ -1,0 +1,29 @@
+- student: "Thanavya"
+  age: "8"
+  school: "jublee"
+
+  address:
+    - type: "current"
+      city: "bangalore"
+      apartmentname: "samhita"
+      country: "India"
+
+    - type: "Permanent"
+      city: "Nellore"
+      apartmentname: "Divya Splendour"
+      country: "India"
+
+- student: "Nihanth"
+  age: "8"
+  school: "jublee"
+
+  address:
+    - type: "current"
+      city: "bangalore"
+      apartmentname: "samhita"
+      country: "India"
+
+    - type: "Permanent"
+      city: "Nellore"
+      apartmentname: "Divya Splendour"
+      country: "India"      

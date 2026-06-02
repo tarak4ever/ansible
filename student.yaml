@@ -1,0 +1,27 @@
+- name: "tarakram"
+  dob: "01-01-2000"
+  mobile: "12345"
+  addresses:
+    - type: permanent
+      street: 102
+      city: "NLR"
+      state: "AP"
+
+    - type: current
+      street: 103
+      city: "BLR"
+      state: "KA"
+
+- name: "nihanth"
+  dob: "01-01-2000"
+  mobile: "12345"
+  addresses:
+    - type: permanent
+      street: 102
+      city: "NLR"
+      state: "AP"
+
+    - type: current
+      street: 103
+      city: "BLR"
+      state: "KA"

@@ -1,0 +1,73 @@
+< this is student objest >
+<students>
+ <student>
+    <Firstname>tarakram</Firstname>
+    <Firstname>Davanam</Laststname>
+    <Firstname>first</Class>
+    <dob>1983-01-08</dob>
+    <mobile>8150000145</mobile>
+    <addresses>
+        <currentaddress>
+            <street>1012<street>
+            <road>12<road>
+            <HS_no>213</HS_no>
+            <city>bangalore</city>
+            <country>india</country>
+        </currentaddress>
+        <permtaddress>
+            <street>DMart<street>
+            <road>02<road>
+            <HS_no>503</HS_no>
+            <city>Nellorer</city>
+            <country>india</country>
+        </permtaddress>
+    <addresses>
+
+ </student>
+  
+    <Firstname>nihanth</Firstname>
+    <Firstname>Davanam</Laststname>
+    <Firstname>first</Class>
+    <dob>1983-01-08</dob>
+    <mobile>8150000145</mobile>
+    <addresses>
+        <currentaddress>
+            <street>1012<street>
+            <road>12<road>
+            <HS_no>213</HS_no>
+            <city>bangalore</city>
+            <country>india</country>
+        </currentaddress>
+        <permtaddress>
+            <street>DMart<street>
+            <road>02<road>
+            <HS_no>503</HS_no>
+            <city>Nellorer</city>
+            <country>india</country>
+        </permtaddress>
+    <addresses>
+
+    </student>
+  
+    <Firstname>thanavya</Firstname>
+    <Firstname>Davanam</Laststname>
+    <Firstname>first</Class>
+    <dob>1983-01-08</dob>
+    <mobile>8150000145</mobile>
+    <addresses>
+        <currentaddress>
+            <street>1012<street>
+            <road>12<road>
+            <HS_no>213</HS_no>
+            <city>bangalore</city>
+            <country>india</country>
+        </currentaddress>
+        <permtaddress>
+            <street>DMart<street>
+            <road>02<road>
+            <HS_no>503</HS_no>
+            <city>Nellorer</city>
+            <country>india</country>
+        </permtaddress>
+    <addresses>
+</students>

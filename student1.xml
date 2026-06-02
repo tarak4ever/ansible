@@ -1,0 +1,16 @@
+<students>
+    <student>
+            <First Name >Apple</First name>
+            <Last Name></Last Name>
+            <School>Sri Chaitanya</School>
+        <Addresses>
+                <currentaddress>
+                    <city>bangalore</city>
+                </currentaddress>
+                <permtaddressaddress>
+                <city>nelloredist</nelloredist>
+                </perrentaddress>
+
+        </Addresses>
+    </student>
+</students>

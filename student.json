@@ -1,0 +1,48 @@
+{
+    "students": [
+        {
+            "firstname": "tarakram",
+            "lastname": "davanam ",
+            "school": "sri chaitanya",
+            "addresses": [
+        {
+            "type": "perm addresses",
+            "area": "TC Palya",
+            "city": "bangalore",
+            "state": "KA",
+            "country": "India" 
+        },
+        {
+            "type": "perm addresses",
+            "area": "Magunta layout",
+            "city": "Nellore",
+            "state": "Ap",
+            "country": "India" 
+        }
+    ] 
+        },
+        {
+            "firstname": "nihanth",
+            "lastname": "davanam ",
+            "school": "sri chaitanya",
+            "addresses": [
+        {
+            "type": "perm addresses",
+            "area": "TC Palya",
+            "city": "bangalore",
+            "state": "KA",
+            "country": "India" 
+        },
+        {
+            "type": "perm addresses",
+            "area": "Magunta layout",
+            "city": "Nellore",
+            "state": "Ap",
+            "country": "India" 
+        }
+    ] 
+        }
+    ]
+    
+
+}
