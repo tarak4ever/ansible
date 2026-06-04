@@ -10,4 +10,4 @@
   - name: start nginx
     name: nginx
     state: started
-    enable: yes
+    enabled: yes
