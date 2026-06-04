@@ -9,4 +9,4 @@
     place: "online"
     tasks:
     - debug:
-        msg: " Hi, i am learning {{ course }}, trainer is {{trainer}}, duration is{{duration}}, at{{place}}"
+        msg: "Hi, i am learning {{ course }}, trainer is {{trainer}}, duration is{{duration}}, at{{place}}"
