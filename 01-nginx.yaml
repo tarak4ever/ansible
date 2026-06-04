@@ -9,5 +9,5 @@
         state: present
   - name: start nginx
     name: nginx
-    state: present
+    state: started
     enable: yes
