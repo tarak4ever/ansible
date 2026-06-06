@@ -2,6 +2,6 @@
 - name: variables another method
   hosts: frontend
   tasks:
-  - name: display new message
+  - name: print information
     debug:
       msg: "HELLO TARAKRAM we are teaching {{COURSE}}, trainer is {{TRAINER}}, session through {{MODE}}, please practice daily {{duration}} thank you Tarakram"
