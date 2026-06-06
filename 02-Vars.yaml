@@ -5,4 +5,4 @@
   tasks:
   - name: display course information
     debug:
-      msg: "I am learning {{COURSE}}, trainer is {{TRAINER}}, duration is {{DURATION}}, mode is {{MODE}} thank you"
+      msg: "I am learning {{COURSE}}, trainer is {{TRAINER}}, duration is {{DURATION}}, mode is {{MODE}} thank you Boss"
