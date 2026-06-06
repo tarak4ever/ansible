@@ -4,4 +4,4 @@
   tasks:
   - name: print information
     debug:
-      msg: "HELLO TARAKRAM we are teaching {{COURSE}}, trainer is {{TRAINER}}, session through {{MODE}}, please practice daily {{duration}} thank you Tarakram"
+      msg: "HELLO TARAKRAM we are teaching {{COURSE}}, trainer is {{TRAINER}}, session through {{MODE}}, please practice daily {{DURATION}} thank you Tarakram"
