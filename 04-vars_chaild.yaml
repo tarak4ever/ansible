@@ -25,4 +25,4 @@
       vars:
         COURSE: "this is DevSecOps AI course"
       debug:
-        msg: "Hi i am learning {{COURSE}}, from {{TRAINER}}, through online and course DURATION is {{DURATION}} Thank you TARAK PLEASE CONCENTRATE CAREFULLY ELSE LIFE WILL BE DIFFICULT TO ANSWER. THINK ABOUT CHILDREN CAREER {{IMP}}"
+        msg: "Hi i am learning {{COURSE}}, from {{TRAINER}}, through online and course DURATION is {{DURATION}} Thank you {{IMP}} SESSION 2 PRACTICE"
