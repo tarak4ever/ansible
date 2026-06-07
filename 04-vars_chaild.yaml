@@ -9,6 +9,6 @@
   tasks:
     - name: print information
       vars:
-        course": "this is DevSecOps AI course"
+        COURSE: "this is DevSecOps AI course"
       debug:
         msg: "Hi i am learning {{COURSE}}, from {{TRAINER}}, through online and course DURATION is {{DURATION}} Thank you"
