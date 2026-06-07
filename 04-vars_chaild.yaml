@@ -15,7 +15,7 @@
 
   - name: demo on task level variables
     hosts: frontend
-    connection: frontend
+    # connection: frontend
     vars:
       COURSE: "DEVOPS"
       TRAINER: "M Siva Kumar"
