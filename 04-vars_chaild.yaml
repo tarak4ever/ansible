@@ -1,12 +1,26 @@
 ---
-- name: demo on task level variables
-  hosts: local
-  connection: local
-  vars:
-    COURSE: "DEVOPS"
-    TRAINER: "M Siva Kumar"
-    DURATION: "5-Months"
-  tasks:
+# - name: demo on task level variables
+#   hosts: local
+#   connection: local
+#   vars:
+#     COURSE: "DEVOPS"
+#     TRAINER: "M Siva Kumar"
+#     DURATION: "5-Months"
+#   tasks:
+#     - name: print information
+#       vars:
+#         COURSE: "this is DevSecOps AI course"
+#       debug:
+#         msg: "Hi i am learning {{COURSE}}, from {{TRAINER}}, through online and course DURATION is {{DURATION}} Thank you"
+
+  - name: demo on task level variables
+    hosts: frontend
+    connection: frontend
+    vars:
+      COURSE: "DEVOPS"
+      TRAINER: "M Siva Kumar"
+      DURATION: "5-Months"
+    tasks:
     - name: print information
       vars:
         COURSE: "this is DevSecOps AI course"
